@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/temidayo-falomo/Nft-preview-card-challenge-.git/static/css/main.992ec73d.css",
+    "main.js": "/temidayo-falomo/Nft-preview-card-challenge-.git/static/js/main.09ad9b82.js",
+    "index.html": "/temidayo-falomo/Nft-preview-card-challenge-.git/index.html",
+    "main.992ec73d.css.map": "/temidayo-falomo/Nft-preview-card-challenge-.git/static/css/main.992ec73d.css.map",
+    "main.09ad9b82.js.map": "/temidayo-falomo/Nft-preview-card-challenge-.git/static/js/main.09ad9b82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.992ec73d.css",
+    "static/js/main.09ad9b82.js"
+  ]
+}
